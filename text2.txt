@@ -5,3 +5,6 @@ now we we transfer to remote repository(github) from
 local repository.
 
 thanks/tajul
+
+
+some new bug fixing ...
