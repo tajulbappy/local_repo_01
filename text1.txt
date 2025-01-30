@@ -1,3 +1,6 @@
 This is text documents.
 
 we can add some text here.
+we can update file from local repository OR remote repository
+then use "git push" for update local repository
+or use "git pull" for update remote repository
