@@ -1,0 +1,7 @@
+This is my second text.
+
+we can write somthing here..
+now we we transfer to remote repository(github) from
+local repository.
+
+thanks/tajul
